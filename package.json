@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/anithasgit/test-circle-ci/issues"
   },
-  "homepage": "https://github.com/anithasgit/test-circle-ci#readme"
+  "homepage": "https://github.com/anithasgit/test-circle-ci#readme",
+  "dependencies": {
+    "jest": "^24.1.0"
+  }
 }
