@@ -1,0 +1,23 @@
+{
+  "name": "test-circle-ci",
+  "version": "1.0.0",
+  "description": "testing circleci with nodejs/jest",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anithasgit/test-circle-ci.git"
+  },
+  "keywords": [
+    "test",
+    "testing"
+  ],
+  "author": "anithasgit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anithasgit/test-circle-ci/issues"
+  },
+  "homepage": "https://github.com/anithasgit/test-circle-ci#readme"
+}
